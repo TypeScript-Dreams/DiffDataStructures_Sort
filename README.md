@@ -1,2 +1,3 @@
 # DiffDataStructures_Sort
-Compare different data stuctures.
+
+Compare different data structures.

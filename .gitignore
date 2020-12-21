@@ -1,0 +1,49 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# Build
+public/css/main.css
+build
+
+# Coverage reports
+coverage
+*.lcov
+
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Ignore built ts files
+dist/**/*
+
+# ignore .lock
+yarn.lock
+package-lock
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
